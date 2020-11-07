@@ -1,0 +1,20 @@
+target
+.metadata
+.settings
+.classpath
+.project
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+.idea
+*.iml
+*.swp
+*.txt
+datanucleus.log
+/bin/
+*.log
+/out
+event-sourcing/Journal.jsongit
+/node_modules/
